@@ -1,2 +1,0 @@
-
-Results produced with PMI
