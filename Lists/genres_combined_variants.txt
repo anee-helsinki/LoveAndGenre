@@ -1,4 +1,5 @@
 # List used to combine Oracc genre definitions into broader categories.
+# The broader category is on the right side of the equals signs and the variant on the left side.
 
 lexical == lexical
 royal inscription == royal inscription
