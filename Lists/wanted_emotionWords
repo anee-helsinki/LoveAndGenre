@@ -1,3 +1,6 @@
+# Emotion words queried from the documents with PMI and fastText.
+# The number after the word indicates the genre the word belongs to (see emotionsWithGenre).
+
 adirtu_2
 adru_1
 adru_2
