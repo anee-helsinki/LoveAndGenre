@@ -1,8 +1,8 @@
 # GODS, COMBINED VARIANTS
 
-# The preferred normalization is on the left side of the equals signs and the variants on the right side. In most cases, the preferred normalization is the most common one in our corpus. Based on json files from February 2019.
-
-
+# The preferred normalization is on the left side of the equals signs and the variants on the right side. 
+# In most cases, the preferred normalization is the most common one in our corpus. 
+# Based on Oracc json files from February 2019.
 
 Abaralah == Abara-DUDU
 Abmunzerkiʾaŋ == Abmunzerkiʾag
