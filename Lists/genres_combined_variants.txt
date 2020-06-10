@@ -1,3 +1,5 @@
+# List used to combine Oracc genre definitions into broader categories.
+
 lexical == lexical
 royal inscription == royal inscription
 administrative letter == letter
