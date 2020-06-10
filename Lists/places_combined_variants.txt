@@ -1,8 +1,7 @@
-#PLACES, COMBINED VARIANTS, Based on json files from February 2019.
-
+#PLACES, COMBINED VARIANTS, Based on Oracc json files from February 2019.
 #The preferred normalisation is on the left side of the equal signs and the variants on the right side.
-
-#Due to the nature of the data and time constraints, it has not been possible to differentiate between homonymous but distinct place names. Accordingly, a single lemma can cover several different geographical locations.
+#Due to the nature of the data and time constraints, it has not been possible to differentiate between homonymous 
+but distinct place names. Accordingly, a single lemma can cover several different geographical locations.
 
 
 Adauš == Addauš
