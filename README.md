@@ -8,7 +8,7 @@ The Folders:
 
 <b>Networks and figures/</b> contains the networks and figures produced during our research.
 
-<b>PMIandFastText_results/</b> contains the results produced with PMI and fastText.
+<b>PMI and fastText results/</b> contains the results produced with PMI and fastText.
 
 <b>Texts/</b> contains the texts used for producing results with PMI and fastText.
 
