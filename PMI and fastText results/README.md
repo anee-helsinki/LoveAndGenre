@@ -1,6 +1,6 @@
 
 ### Results produced with PMI and fastText
 
-<b>EmotionsAndGenre_FT.txt:</b> Ten most semantically similar words in our dataset for each of the emotions words (that have been divided divided accroding to genre) of interest as indicated by the analysis with fastText. The network LoveNumbers_FT has been produced from this data.
+<b>EmotionsAndGenre_FT.tsv:</b> Emotion words and ten semantically most similar words (i.e., words with the highest cosine similarities) to each of them according to fastText. The emotion verbs and their derivatives are separated according to the genre of the document in which they appear. The network LoveNumbers_FT has been produced from this data.
 
-<b>emotionsAndGenre_PMI.csv:</b> Twenty closest collocates in our dataset for each of the emotions words (that have been divided divided accroding to genre) of interest as indicated by the analysis with PMI. The network LoveNumbers_PMI has been produced from this data.
+<b>emotionsAndGenre_PMI.csv:</b> Emotion words and their twenty closest collocates (i.e., words with the highest PMI scores) according to PMI. The emotion verbs and their derivatives are separated according to the genre of the document in which they appear. The network LoveNumbers_PMI has been produced from this data.
