@@ -1,24 +1,24 @@
-Figure1.gephi
+### Figure1.gephi
 
 Contains the following graphs:
 
-PMI_translated and FT_translated
+<b>PMI_translated and FT_translated</b>
 
 - Lexical networks of Akkadian words created using PMI scores / cosine similarities from fastText as edge weights, to be published in Krister Lindén, Saana Svärd, Tero Alstola, Sam Hardwick, Heidi Jauhiainen, Mikko Luukko, and Aleksi Sahala. In preparation. Dataset used for "Social Group Identities and Semantic Domains." The readme files of this dataset provide information on how the PMI scores and cosine similarities in fastText have been calculated and how they have been transferred to edge weights in the networks. Nodes are labelled according to the English translations of the Akkadian words.
 - Also available as gexf files
 
-matu_PMI and matu_FT
+<b>matu_PMI and matu_FT</b>
 
 - Ego networks of the word mâtu, "to die," at a depth of 1
 - Node size (25-50) corresponds to the weighted degree of the nodes. 
 - The layout of the nodes was created with the ForceAtlas2 algorithm.
 
-matu_PMI_filtered and matu_FT_filtered
+<b>matu_PMI_filtered and matu_FT_filtered</b>
 
 - Matu_PMI_filtered includes the target word mâtu and six words with the highest PMI scores (labû and šatānu have the same score) and matu_FT_filtered five words with the highest cosine similarities. The word qātīšu has been excluded from matu_PMI_filtered because its occurrence is a result of a lemmatization mistake in Oracc (the lemma should be qātu).
 - The final location of the nodes has been manually adjusted. 
 
-Figure 1
+<b>Figure 1</b>
 
 Examples of linguistic networks created using PMI scores (A) and cosine similarities from fastText (B) as edge weights. 
 
@@ -27,11 +27,11 @@ Examples of linguistic networks created using PMI scores (A) and cosine similari
 - Also available as a pdf file
 
 
-EmotionsAndGenre.gephi
+### EmotionsAndGenre.gephi
 
 Contains the following graphs:
 
-LoveNumbers_PMI and LoveNumbers_FT 
+<b>LoveNumbers_PMI and LoveNumbers_FT</b>
 
 - LoveNumbers_PMI is created using PMI scores as edge weights and LoveNumbers_FT is created using cosine similarities from fastText as edge weights
 - Each emotion word is connected to the ten best PMI collocates (the highest PMI scores) or the ten most similar words according fastText (the highest cosine similarities)
@@ -42,7 +42,7 @@ LoveNumbers_PMI and LoveNumbers_FT
 - Label adjust layout
 - Also available as gexf files
 
-Figures 2-7
+<b>Figures 2-7</b>
 
 Ego networks of râmu and its derivatives in different genres, created using PMI scores and cosine similarities from fastText as edge weights.
 
@@ -53,8 +53,7 @@ Ego networks of râmu and its derivatives in different genres, created using PMI
 - In the printed figures and pdf files, the target words (râmu and its derivatives) are in bold and the indirectly connected emotion words are in italics.
 - Also available as pdf files
 
-
-Figure 8
+<b>Figure 8</b>
 
 Network showing the clustering of emotion words according to the genre in which they appear, created using cosine similarities from fastText as edge weights.
 
