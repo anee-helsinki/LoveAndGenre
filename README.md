@@ -6,7 +6,7 @@ The Folders:
 
 <b>Lists/</b> contains various lists used for and created while analysing love words in Akkadian.
 
-<b>Networks/</b> contains the networks and figures produced during our research
+<b>Networks/</b> contains the networks and figures produced during our research.
 
 <b>PMIandFastText_results/</b> contains the results produced with PMI and fastText.
 
