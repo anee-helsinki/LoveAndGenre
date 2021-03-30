@@ -2,9 +2,9 @@
 
 <b>emotionsWithGenre:</b> List of emotion words (separated according to the genre of the document) that were analyzed with PMI and fastText, including the name of the genre and the number of attestations.
 
-<b>frequenciesOfGenres:</b> Different genres in the original Oracc metadata and their frequencies in our dataset. These genres were combined into broader categories (see the files genres_combined_variants and textGenresCombined).
+<b>frequencies_OriginalGenres:</b> Different genres in the original Oracc metadata and their frequencies in our dataset. These genres were combined into broader categories (see the files genres_combined_variants and textGenresCombined).
 
-<b>frequenciesOfWords:</b> Frequencies of words in the dataset after we had separated the emotion verbs and their derivatives according to the genre of the document in which they appear.
+<b>frequencies_Words:</b> Frequencies of words in the dataset after we had separated the emotion verbs and their derivatives according to the genre of the document in which they appear.
 
 <b>genres_combined_variants.txt:</b> List used to combine Oracc genre definitions into broader categories.
 
