@@ -14,8 +14,6 @@ The Folders:
 
 <b>Texts/</b> contains the text file used for producing the results with PMI and fastText.
 
-<b>Visualizations/</b> contains the graphs used for analysing the meaning of love words as evident in the results obtained with PMI and fastText.
-
 <br><br>
 
 <p align="center">
