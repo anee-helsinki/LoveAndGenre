@@ -20,8 +20,8 @@
 
 <b>textTimeperiods:</b> Time periods of the documents in our dataset as specified in Oracc and their frequencies.
 
-<b>wanted_emotionWords:</b> Emotion words queried from the documents with PMI and fastText.
-
-<b>words:</b> Words in the dataset with the translations indicated in the Oracc metadata.
-
 <b>textsAnalysed:</b> Documents in the dataset with some information on each of them.
+
+<b>wanted_emotionWords:</b> Emotion words analyzed using PMI and fastText.
+
+<b>words:</b> Words in the dataset and their translations as given in the Oracc metadata.
