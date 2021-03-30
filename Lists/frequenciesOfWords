@@ -1,4 +1,4 @@
-# Frequencies of words in the dataset.
+# Frequencies of words in the dataset after we had separated the emotion verbs and their derivatives according to the genre of the document in which they appear.
 
 472708 _
 40841 PERSON
