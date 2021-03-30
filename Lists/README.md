@@ -16,12 +16,12 @@
 
 <b>places_combined_variants.txt:</b> List used to normalize place names.
 
+<b>textProvenances:</b> Provenances of documents as specified in the Oracc metadata and their frequencies in our dataset.
+
+<b>textTimeperiods:</b> Time periods of the documents in our dataset as specified in Oracc and their frequencies.
+
 <b>wanted_emotionWords:</b> Emotion words queried from the documents with PMI and fastText.
 
 <b>words:</b> Words in the dataset with the translations indicated in the Oracc metadata.
-
-<b>textProvenances:</b> Provenances of documents as specified in the Oracc metadata and their frequencies in our dataset.
-
-<b>textTimeperiods:</b> Time periods of the document in our dataset as specified in Oracc and their frequencies.
 
 <b>textsAnalysed:</b> Documents in the dataset with some information on each of them.
