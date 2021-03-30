@@ -1,6 +1,6 @@
 ## Digital Approaches to Analyzing and Translating Emotion
 
-This is the repository containing the data used for and created while writing the article Digital Approaches to Analyzing and Translating Emotion. The creation of this data has been funded by the Academy of Finland (decision numbers 298647, 312051, and 330727).
+This is the repository containing the data used for and created while writing the article "Digital Approaches to Analyzing and Translating Emotion." The creation of this data has been funded by the Academy of Finland (decision numbers 298647, 312051, and 330727).
 
 The Folders:
 
