@@ -1,5 +1,4 @@
-# All the emotions of interest in the project with the _genreNumber and the name of the genre as indicated in the Oracc metadata. 
-
+# List of emotion words (separated according to the genre of the document) that were analyzed with PMI and fastText, including the name of the genre and the number of attestations.
 adirtu_2	astrological/astronomical 7
 adru_1	administrative record 16
 adru_2	astrological/astronomical 22
