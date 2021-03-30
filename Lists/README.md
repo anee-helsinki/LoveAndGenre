@@ -8,6 +8,8 @@
 
 <b>genres_combined_variants.txt:</b> List used to combine Oracc genre definitions into broader categories.
 
+<b>genres_withNumbers:</b> Genres (after combining them into broader categories) and the numbers corresponding to each of them.
+
 <b>gods_combined_variants.txt:</b> List used to normalize divine names.
 
 <b>places_combined_variants.txt:</b> List used to normalize place names.
@@ -15,8 +17,6 @@
 <b>wanted_emotionWords:</b> Emotion words queried from the documents with PMI and fastText.
 
 <b>words:</b> Words in the dataset with the translations indicated in the Oracc metadata.
-
-<b>genres_withNumbers:</b> Genres and the numbers corresponding to each of them.
 
 <b>textGenresCombined:</b> Genres of the documents of the dataset after we have combined the Oracc tags into broader categories.
 
