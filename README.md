@@ -12,7 +12,7 @@ The Folders:
 
 <b>PMI and fastText results/</b> contains the results produced with PMI and fastText.
 
-<b>Texts/</b> contains the texts used for producing results with PMI and fastText.
+<b>Texts/</b> contains the text file used for producing the results with PMI and fastText.
 
 <b>Visualizations/</b> contains the graphs used for analysing the meaning of love words as evident in the results obtained with PMI and fastText.
 
