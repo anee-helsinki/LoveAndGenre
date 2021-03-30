@@ -1,6 +1,6 @@
-### Lists used for and created while analysing love words in Akkadian.
+### Lists used for and created while analyzing love words in Akkadian
 
-<b>emotionsWithGenre:</b> All the emotions of interest in the project with the genre as indicated in the Oracc metadata.
+<b>emotionsWithGenre:</b> List of emotion words (separated according to the genre of the document) that were analyzed with PMI and fastText, including the name of the genre and the number of attestations.
 
 <b>genres_combined_variants.txt:</b> List used to combine Oracc genre definitions into broader categories.
 
