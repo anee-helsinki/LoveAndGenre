@@ -4,7 +4,7 @@ This is the repository containing the data used for and created while writing th
 
 The Folders:
 
-<b>Lists/</b> contains various lists used for and created while analysing love words in Akkadian.
+<b>Lists/</b> contains various lists used for and created while analyzing love words in Akkadian.
 
 <b>Networks and figures/</b> contains the networks and figures produced during our research.
 
