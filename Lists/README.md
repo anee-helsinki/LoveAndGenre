@@ -4,6 +4,8 @@
 
 <b>frequenciesOfGenres:</b> Different genres in the original Oracc metadata and their frequencies in our dataset. These genres were combined into broader categories (see the files genres_combined_variants and textGenresCombined).
 
+<b>frequenciesOfWords:</b> Frequencies of words in the dataset after we had separated the emotion verbs and their derivatives according to the genre of the document in which they appear.
+
 <b>genres_combined_variants.txt:</b> List used to combine Oracc genre definitions into broader categories.
 
 <b>gods_combined_variants.txt:</b> List used to normalize divine names.
@@ -11,8 +13,6 @@
 <b>places_combined_variants.txt:</b> List used to normalize place names.
 
 <b>wanted_emotionWords:</b> Emotion words queried from the documents with PMI and fastText.
-
-<b>frequenciesOfWords:</b> Frequencies of words in the dataset.
 
 <b>words:</b> Words in the dataset with the translations indicated in the Oracc metadata.
 
