@@ -1,5 +1,5 @@
-   # Genres in the documents in the dataset after we have combined the Oracc tags into broader categories.
-   # For the list that was used to perform the combining see Genres_combined_variants.txt.
+   # Frequencies of different genres in the dataset after we had combined the original genres in Oracc into broader categories.
+   # For the list that was used to combine the genres, see genres_combined_variants.txt.
    
    2247 letter
    1494 royal inscription
