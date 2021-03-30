@@ -8,7 +8,7 @@ The Folders:
 
 <b>Networks and figures/</b> contains the networks and figures produced during our research.
 
-<b>Oracc data</b> contains the raw data extracted from the Oracc texts.
+<b>Oracc data/</b> contains the raw data extracted from the Oracc texts.
 
 <b>PMI and fastText results/</b> contains the results produced with PMI and fastText.
 
