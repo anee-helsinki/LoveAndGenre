@@ -1,4 +1,5 @@
-#  Different genres in the original Oracc metadata and their frequencies in our dataset. These genres were combined into broader categories (see the files genres_combined_variants and texGenresCombined).
+# Different genres in the original Oracc metadata and their frequencies in our dataset
+# These genres were combined into broader categories (see the files genres_combined_variants and texGenresCombined).
 
 1655 Administrative Letter
 1487 Royal Inscription
