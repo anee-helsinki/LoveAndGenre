@@ -1,0 +1,23 @@
+The command used for producing the fastText results:
+
+./fasttext skipgram -input emotionsAndGenre_text -output result/emotionsAndGenre -minn 3 -maxn 6 -neg 70 -t 0.01 -ws 10 -epoch 1000 -dim 50
+
+This produces files result/emotionsAndGenre.bin ja result/emotionsAndGenre.vec. From the previous one we extract the 50 most similar words to the ones we are interested with the following script:
+
+#!bin/bash
+
+#file with words wanted
+filename=$1
+
+#vec-file produced by fastText (result/xxx.bin)
+vecName=$2
+
+while read line
+do
+	echo $line
+	echo `printf $line | ./myFasttext nn $vecName`
+done < $filename
+
+#echo ""
+
+The file produced this way  (Distances_FT.txt) is then turned into a .tsv file with only the 10 most similar words (EmotionsAndGenre_FT.tsv)

@@ -1,0 +1,22 @@
+conditions                 {'stopwords': ['', '_', '<BF>', '<LB>'], 'stopwords_regex': [], 'conditions': [], 'conditions_regex': []}
+corpus_size                1029871
+corpus_size_true           557163
+date                       2020-10-06 12:01:48.529794
+distance_scaling           False
+filename                   loveGenresText_oct5
+formulaic_forced           False
+formulaic_measure          <class 'pmizer.Lazy'>
+freq_threshold             2
+freq_threshold_collocate   5
+log_base                   2
+measure                    PPMI2
+metadata                   {}
+metalist                   []
+output_format              scores
+symmetry                   True
+track_distance             False
+window_scaling             True
+windowsize                 10
+words                      {1: ['adirtu_2', 'adru_10', 'adāru_10', 'adāru_11', 'adāru_9', 'aggu_10', 'aggu_11', 'agāgu_11', 'ezzu_10', 'ezzu_11', 'ezzu_7', 'ezēzu_11', 'ezēzu_2', 'galātu_11', 'galātu_5', 'galātu_9', 'gilittu_10', 'gilittu_9', 'kimiltu_10', 'kimiltu_12', 'kimiltu_9', 'mugallitu_11', 'narāmtu_11', 'narāmu_10', 'narāmu_11', 'narāmu_12', 'narāmu_7', 'palhu_10', 'palhu_11', 'palhu_5', 'palāhu_11', 'palāhu_3', 'palāhu_4', 'palāhu_5', 'palāhu_7', 'palāhu_9', 'pardu_10', 'parādu_9', 'pirittu_10', 'pirittu_7', 'pirittu_9', 'pulhu_11', 'puluhtu_11', 'puluhtu_5', 'puluhtu_7', 'raʾību_12', 'raʾābu_5', 'raʾābu_7', 'raʾīmu_7', 'ruʾāmu_11', 'râmu_10', 'râmu_11', 'râmu_12', 'râmu_5', 'râmu_7', 'râmu_8', 'râmu_9', 'rāʾimu_10', 'rāʾimu_11', 'rāʾimu_5', 'rāʾimu_7', 'uggatu_11', 'uggatu_3', 'uzzu_10', 'uzzu_11', 'uzzu_7', 'zenû_10', 'zenû_11', 'zenû_2', 'zenû_9', 'šabsu_9', 'šabāsu_11', 'šahtu_11', 'šahātu_11', 'šamru_11', 'šamāru_10', 'šamāru_11', 'ādiru_11', 'šibsātu_9', 'šutadduru_10'], 2: []}
+-------------------- 
+pmizer version: 2019-06-26
