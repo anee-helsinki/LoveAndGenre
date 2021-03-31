@@ -9,4 +9,4 @@
 
 <b>LoveGenre.log:</b> Log file about producing the PMI results.
 
-<b>ProducingFastTextResults:</b> Explanation about how the fastText results were optained.
+<b>ProducingFastTextResults.txt:</b> Explanation about how the fastText results were obtained.
