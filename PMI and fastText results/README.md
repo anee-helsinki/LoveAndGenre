@@ -1,7 +1,7 @@
 
 ### Results produced with PMI and fastText
 
-<b>Distances_FT.txt:</b> Word similarities for the words of interest extracted from the binary fastText results.
+<b>CosineSimilarities_FT.txt:</b> Most similar words to the emotion words of interest and their cosine similarities, extracted from the binary fastText results.
 
 <b>EmotionsAndGenre_FT.tsv:</b> Emotion words and ten semantically most similar words (i.e., words with the highest cosine similarities) to each of them according to fastText. The emotion verbs and their derivatives are separated according to the genre of the document in which they appear. The network LoveNumbers_FT has been produced from this data.
 
