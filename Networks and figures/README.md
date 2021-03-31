@@ -6,7 +6,7 @@ Contains the following graphs:
 
 <b>PMI_translated and FT_translated</b>
 
-- Lexical networks of Akkadian words created using PMI scores / cosine similarities from fastText as edge weights. The data derives from Jauhiainen et al. (2021), Lexicographical Portal—The Dataset, http://doi.org/10.5281/zenodo.4646662. The readme files of this dataset provide information on how the PMI scores and cosine similarities in fastText have been calculated and how they have been transferred to edge weights in the networks. Nodes are labelled according to the English translations of the Akkadian words.
+- Lexical networks of Akkadian words created using PMI scores / cosine similarities from fastText as edge weights. The data derives from Jauhiainen et al. (2021), Lexicographical Portal—The Dataset, http://doi.org/10.5281/zenodo.4646662. Nodes are labelled according to the English translations of the Akkadian words.
 - Also available as gexf files
 
 <b>matu_PMI and matu_FT</b>
