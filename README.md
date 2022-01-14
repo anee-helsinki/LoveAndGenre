@@ -1,6 +1,6 @@
-## Digital Approaches to Analyzing and Translating Emotion
+## What is Love? Digital Approaches to Analyzing and Translating Emotion
 
-This is the repository containing the data used for and created while writing the article "Digital Approaches to Analyzing and Translating Emotion." The creation of this data has been funded by the Academy of Finland (decision numbers 298647, 312051, and 330727).
+This is the repository containing the data used for and created while writing the article "What Is Love? Digital Approaches to Analyzing and Translating Emotion" in Karen Sonik and Ulrike Steinert (eds.), The Routledge Handbook of Emotions in the Ancient Near East.
 
 The Folders:
 
@@ -13,6 +13,8 @@ The Folders:
 <b>PMI and fastText results/</b> contains the results produced with PMI and fastText.
 
 <b>Texts/</b> contains the text file used for producing the results with PMI and fastText.
+
+We gratefully acknowledge that our research has been funded by the Academy of Finland (decision numbers 298647, 312051, and 330727). Our research data originates from the Open Richly Annotated Cuneiform Corpus (Oracc). We thank Oracc for their efforts in making linguistically annotated cuneiform texts available online. We are indebted to everyone who has been involved in creating this research data, including the authors of the original publications and the researchers who have made the data Oracc-compatible and enriched it through lemmatizations and by adding other metadata (for a list of projects and their contributors, see the file OraccCredits.txt). In the context of this article and dataset, we want to acknowledge the work of the Munich Open-access Cuneiform Corpus Initiative (PIs Karen Radner and Jamie Novotny), the Royal Inscriptions of the Neo-Assyrian Period project (PI Grant Frame), and the Akkadian Love Literature project (Nathan Wasserman and Yigal Bloch) in particular. 
 
 <br><br>
 
