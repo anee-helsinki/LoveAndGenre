@@ -25,7 +25,7 @@ Contains the following graphs:
 Examples of linguistic networks created using PMI scores (A) and cosine similarities from fastText (B) as edge weights. 
 
 - Matu_PMI_filtered and matu_FT_filtered shown side by side
-- While PMI scores and cosine similarities were used as edge weights in the analysis of the graph, all edges have a thickness of 1 in the figure for the sake of clarity.
+- While PMI scores and cosine similarities were used as edge weights in the analysis of the graph, all edges have a thickness of 2 in the printed figure and the pdf file for the sake of clarity.
 - Also available as a pdf file
 
 
