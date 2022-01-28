@@ -1,6 +1,6 @@
-## What is Love? Digital Approaches to Analyzing and Translating Emotion
+## Digital Approaches to Analyzing and Translating Emotion: What is Love?
 
-This is the repository containing the data used for and created while writing the article "What Is Love? Digital Approaches to Analyzing and Translating Emotion" in Karen Sonik and Ulrike Steinert (eds.), The Routledge Handbook of Emotions in the Ancient Near East.
+This is the repository containing the data used for and created while writing the article "Digital Approaches to Analyzing and Translating Emotion: What Is Love?" in Karen Sonik and Ulrike Steinert (eds.), The Routledge Handbook of Emotions in the Ancient Near East.
 
 The Folders:
 
