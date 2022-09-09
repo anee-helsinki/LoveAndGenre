@@ -2,7 +2,7 @@
 
 Creators: Tero Alstola, Heidi Jauhiainen, Saana Svärd, Aleksi Sahala, and Krister Lindén (University of Helsinki)
 
-Please cite as Alstola, Tero, Jauhiainen, Heidi, Svärd, Saana, Sahala, Aleksi, & Lindén, Krister. (2022). Digital Approaches to Analyzing and Translating Emotion: What Is Love? [Data set]. Zenodo. <a href:"https://doi.org/10.5281/zenodo.7063738">https://doi.org/10.5281/zenodo.7063738</a>.
+Please cite as Alstola, Tero, Jauhiainen, Heidi, Svärd, Saana, Sahala, Aleksi, & Lindén, Krister. (2022). Digital Approaches to Analyzing and Translating Emotion: What Is Love? [Data set]. Zenodo. <a href="https://doi.org/10.5281/zenodo.7063738">https://doi.org/10.5281/zenodo.7063738</a>.
 
 This is the repository containing the data used for and created while writing the article Tero Alstola, Heidi Jauhiainen, Saana Svärd, Aleksi Sahala, and Krister Lindén, "Digital Approaches to Analyzing and Translating Emotion: What Is Love?" in Karen Sonik and Ulrike Steinert (eds.), The Routledge Handbook of Emotions in the Ancient Near East (London: Routledge, 2022), pp. 88–116, <a href="https://doi.org/10.4324/9780367822873-6">https://doi.org/10.4324/9780367822873-6</a>.
 
